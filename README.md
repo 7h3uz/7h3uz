@@ -17,5 +17,3 @@ It's Matheus 😃🇧🇷
 
 :open_file_folder: Database Analyst.
 
-#### :earth_americas: Find me elsewhere :point_down:
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/mxth3ux_x/)
