@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey👋
 
-<!--
-**7h3uz/7h3uz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's Matheus 😄‍🇧🇷
 
-Here are some ideas to get you started:
+🧾 Transmitting knowledge is not simply saying what you know, but using and inspiring new attitudes. 🧾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm:
+:floppy_disk:Malware Analyst.
+
+:robot:information security.
+
+:eight_pointed_black_star:Reverse Engineering.
+
+:minidisc:Hardware Engineer.
+
+:keyboard:Programmer.
+
+:open_file_folder: Database Analyst.
+
+#### :earth_americas: Find me elsewhere :point_down:
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/mxth3ux_x/)
