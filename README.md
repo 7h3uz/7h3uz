@@ -17,3 +17,4 @@ It's Matheus 😃🇧🇷
 
 :open_file_folder: Database Analyst.
 
+✅ Quando perdemos nossos princípios, convidamos o caos.
