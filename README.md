@@ -1,6 +1,6 @@
 # Hey👋
 
-It's Matheus 😄‍🇧🇷
+It's Matheus 😃🇧🇷
 
 🧾 Transmitting knowledge is not simply saying what you know, but using and inspiring new attitudes. 🧾
 
