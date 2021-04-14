@@ -2,7 +2,7 @@
 
 It's Matheus 😃🇧🇷
 
-🧾 Transmitting knowledge is not simply saying what you know, but using and inspiring new attitudes. 🧾
+🧾 When we lose our principles, we invite chaos. 🧾
 
 ### I'm:
 :floppy_disk:Malware Analyst.
@@ -16,5 +16,3 @@ It's Matheus 😃🇧🇷
 :keyboard:Programmer.
 
 :open_file_folder: Database Analyst.
-
-✅ Quando perdemos nossos princípios, convidamos o caos.
