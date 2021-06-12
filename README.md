@@ -11,8 +11,4 @@ It's Matheus 😃🇧🇷
 
 :eight_pointed_black_star:Reverse Engineering.
 
-:minidisc:Hardware Engineer.
-
 :keyboard:Programmer.
-
-:open_file_folder: Database Analyst.
