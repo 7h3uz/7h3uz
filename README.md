@@ -7,8 +7,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7h3us_/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=7h3uz&show_icons=true&theme=dark&count_private=true)
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h3uz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7h3uz&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h3uz&layout=compact&langs_count=7&theme=dark"/>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
