@@ -4,8 +4,9 @@
   <a href="https://github.com/7h3uz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7h3uz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h3uz&theme=tokyonight&show_icons=true"/>
+  </a>
 </div>
-  
+Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="7hz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="7hz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
