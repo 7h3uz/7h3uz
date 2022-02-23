@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi! Eu sou o Matheus Mariano 🖐️😃🇧🇷
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi! I'm Matheus Mariano 🖐️😃🇧🇷
 
 <div align="center">
   <a href="https://github.com/7h3uz">
