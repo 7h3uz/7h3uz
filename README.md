@@ -16,10 +16,13 @@
   <img align="center" alt="7hz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="7hz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="7hz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="7hz-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>
+  <img align="center" alt="7hz-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <br>
+  <br>
   Systems:⚙️<br>
+  <br>
   <img align="center" alt="7hz-Linux" height="25" width="70" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white">
-  <img align="center" alt="7hz-Linux" height="25" width="70" src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=white">
+  <img align="center" alt="7hz-Windows" height="25" width="90" src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=white">
 </div>
 
   ##
